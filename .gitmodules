@@ -1,0 +1,3 @@
+[submodule "r6-dissect"]
+	path = r6-dissect
+	url = https://github.com/redraskal/r6-dissect.git
