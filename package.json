@@ -1,0 +1,14 @@
+{
+  "name": "r6-stats-bot",
+  "version": "1.0.0",
+  "description": "bot that tracks r6 stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt_mack",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
